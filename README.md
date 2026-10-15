@@ -1,15 +1,19 @@
 # moja-sciezka-rozwoju
 
 # Imię Nazwisko
-Maciek Kupidura
+Maciek Kupidura jestem goatem
 
 ## O mnie
 chłopak jestem, 20 lat prawie 
 
 ## Umiejętności
-jakiejs mam
+jakiejs pewnie mam
 
 ## Cele na studiach
-zdać
+zdać, cos sie nauczyc
+
+## Co lubie
+Lubie grac, jesc, autka, komputerki
+
 ## Powstał w markdownie
 powstał w markdownie
