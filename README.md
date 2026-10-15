@@ -4,7 +4,7 @@
 Maciek Kupidura jestem goatem
 
 ## O mnie
-chłopak jestem, 20 lat prawie, w sumie nudny czlowiek ze zmnie ale pogadac mozna ze mna o hmmmmm graniu czy autach
+chłopak jestem, 20 lat prawie, w sumie spoko czlowiek ze zmnie pogadac mozna ze mna o hmmmmm graniu czy autach
 
 ## Umiejętności
 jakiejs pewnie mam
