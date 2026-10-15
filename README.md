@@ -11,3 +11,4 @@ jakiejs mam
 
 ## Cele na studiach
 zdać
+nauczyc sie
